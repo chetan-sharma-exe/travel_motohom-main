@@ -51,6 +51,12 @@ html {
   scroll-behavior: smooth;
 }
 
+#caravan_types {
+  img {
+    width: 100%;
+  }
+}
+
 #text_cont {
   background: white;
   padding: 50px 20px;
